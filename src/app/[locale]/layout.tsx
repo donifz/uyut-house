@@ -30,6 +30,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ru">
+      <meta name="google-site-verification" content="M0w3Yyft_ONe2sw-GrSkFiYt1TrfyM9Pte5G1sUY5xE" />
       <body className={inter.className}>
         <Layout>
           {children}
