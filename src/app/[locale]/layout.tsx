@@ -21,6 +21,14 @@ export const metadata: Metadata = {
     type: "website",
   },
   keywords:["hostel", "хостел", "house", "osh", "Osh", "Ош", "uyut house osh hostel", "Гостиница", "квартира", "hotel", "guest house", "бронирование номеров", "дружелюбный персонал", "уютные номера"],
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: {
+      index: false,
+      follow: false,
+    }
+  }
 };
 
 export default function RootLayout({
