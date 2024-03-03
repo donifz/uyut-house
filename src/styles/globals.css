@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-image{
+  background-image: url("../assets/images/home-rem.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+}
+.bg-linear{
+  /* background-image: linear-gradient(272deg, rgba(255, 76, 0, 0) 0%, #fff 100%);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover; */
+}
