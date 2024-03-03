@@ -32,7 +32,7 @@ export default function RootLayout({
     <html lang="ru">
       <meta name="google-site-verification" content="M0w3Yyft_ONe2sw-GrSkFiYt1TrfyM9Pte5G1sUY5xE" />
       <meta name="author" content="Уют хаус хостел"/>
-      <meta name="robots" content="index, follow"/>
+      <meta name="robots" content="noindex, follow"/>
       <meta name="revisit-after" content="7 days"/>
       <meta name="distribution" content="global"/>
       <meta name="rating" content="general"/>
