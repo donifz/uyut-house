@@ -39,6 +39,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <meta name="google-site-verification" content="M0w3Yyft_ONe2sw-GrSkFiYt1TrfyM9Pte5G1sUY5xE" />
+      <meta http-equiv="X-Robots-Tag" content="noindex"/>
       <meta name="author" content="Уют хаус хостел"/>
       <meta name="robots" content="index, follow"/>
       <meta name="revisit-after" content="7 days"/>
