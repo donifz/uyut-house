@@ -14,6 +14,13 @@ export const metadata: Metadata = {
   icons: {
     shortcut: '/static/favicons/favicon.ico'
   },
+  openGraph: {
+    title: "Уют хаус хостел",
+    description: "Остановитесь у нас и почувствуйте себя как дома",
+    siteName: "Online Store",
+    type: "website",
+  },
+  keywords:["hostel", "хостел", "house", "osh", "Osh", "Ош", "uyut house osh hostel", "Гостиница", "квартира", "hotel", "guest house"]
 };
 
 export default function RootLayout({
